@@ -10,5 +10,5 @@
 * [Graphviz](https://graphviz.org/)
 * [Numpy](https://numpy.org/)
 * [Pandas](https://pandas.pydata.org/)
-* [SKLearn Decision Tree](https://scikit-learn.org/stable/modules/tree.html)
 * [SKLearn Accuracy Score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html)
+* [SKLearn Decision Tree](https://scikit-learn.org/stable/modules/tree.html)
