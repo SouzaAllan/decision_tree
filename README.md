@@ -1,10 +1,10 @@
 # Decision Tree ( Arvore de decisão)
 
-# Developer (Desenvolvedor) 
+## Developer ( Desenvolvedor ) 
 
 * [Allan Tavares de Souza Feitosa](https://github.com/SouzaAllan)
 
-# Libraries ( Bibliotecas )
+## Libraries ( Bibliotecas )
 
 * [Datetime](https://docs.python.org/3/library/datetime.html)
 * [Graphviz](https://graphviz.org/)
